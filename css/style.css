@@ -77,5 +77,17 @@ a{
 color: rgba(231, 76, 60, 1.0);
 }
 .post-date{
-	margin-bottom: 2px;
+	margin-bottom: 3px;
 }
+.latest-blogs .read-more{
+	font-size: 14px;
+}
+.latest-blogs .read-more a{
+	font-size: 14px;
+}
+#footer{
+	color: #fff;
+	background-color: #304463;
+	padding: 20px 0;
+}
+
